@@ -1,0 +1,13 @@
+{
+  "name": "edge-tts-server",
+  "version": "1.0.0",
+  "description": "Edge TTS API server for Persian text-to-speech",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "edge-tts": "^1.0.1"
+  }
+}
