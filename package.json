@@ -1,7 +1,7 @@
 {
   "name": "edge-tts-server",
   "version": "1.0.0",
-  "description": "Edge TTS API server for Persian text-to-speech",
+  "description": "Persian Edge TTS API Server",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
@@ -10,7 +10,6 @@
     "node": "22.x"
   },
   "dependencies": {
-    "express": "^4.21.2",
-    "edge-tts": "^1.0.1"
+    "express": "^4.21.2"
   }
 }
